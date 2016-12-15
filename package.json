@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "main": "lib/engine_handlebars.js",
   "dependencies": {
-    "handlebars": "^4.0.5"
+    "handlebars": "github:discojohnsen/handlebars.js",
   },
   "devDependencies": {},
   "keywords": [
